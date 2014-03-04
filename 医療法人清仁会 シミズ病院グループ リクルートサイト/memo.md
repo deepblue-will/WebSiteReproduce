@@ -1,5 +1,6 @@
 #医療法人清仁会 シミズ病院グループ リクルートサイト
-http://www.shimizu-hospital.or.jp/recruit/
+http://www.shimizu-hospital.or.jp/recruit/  
+![キャプチャ](./capture.png)
 
 ##サイト
 * 病院の採用サイト
